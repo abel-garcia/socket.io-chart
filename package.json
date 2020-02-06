@@ -1,0 +1,19 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "example service with sockets in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wackGarcia/socket.io.git"
+  },
+  "author": "Abel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wackGarcia/socket.io/issues"
+  },
+  "homepage": "https://github.com/wackGarcia/socket.io#readme"
+}

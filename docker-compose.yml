@@ -1,0 +1,8 @@
+version: '3.5'
+services:
+  web:
+    build: .
+    restart: always
+    container_name: sockets-chart-example
+    ports:
+        - "3000:3000"
